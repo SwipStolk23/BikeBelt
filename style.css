@@ -49,13 +49,7 @@ header h1 {
   justify-content: center;
   align-items: center;
   color: white;
-  background-color: rgb(41, 123, 184, 0.8);
-  border-radius: 5%;
-  border-radius: 5%;
-  padding: 0.1em;
-  text-align: center;
-  margin-left: 8em;
-  margin-right: 8em;
+  background-color: rgb(41, 123, 184);
 }
 
 p {
@@ -165,8 +159,13 @@ footer p {
   padding-right: 0.3em;
 }
 
-.test img {
+.afbeeldingen_homepage img {
   background-color: rgb(41, 123, 184, 0.8);
+}
+
+.afbeeldingen_homepage {
+  display: flex;
+  width: 50vw;
 }
 
 .kaartsectie {
