@@ -1,0 +1,29 @@
+Bronen:
+
+Afbeelding Riem:
+https://firefly.adobe.com/generate/images?prompt=create+a+product+image+for+a+belt+that+is+made+of+a+a+bike+tire&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=80029&seed=66442&seed=79554&seed=99042&aspectRatio=portrait&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Afbeelding kom:
+https://firefly.adobe.com/generate/images?prompt=create+a+product+image+bowl+made+of+a+vinyl&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=93132&seed=24248&seed=78368&seed=38040&aspectRatio=square&dl=nl-NL&modelInputVersion=v2&guideStrength=50&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&creativity=6&promptType=user-written
+
+Afbeelding armband:
+https://firefly.adobe.com/generate/images?prompt=create+a+product+image+of+bracelet+made+of+a+bike+chain&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=56224&seed=24066&seed=74528&seed=79446&aspectRatio=portrait&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Afbeelding Oorbellen:
+https://firefly.adobe.com/generate/images?prompt=create+a+product+image+for+earrings+in+the+shape+of+feathers+that+are+mode+of+bike+tires&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=80029&seed=66442&seed=79554&seed=99042&aspectRatio=portrait&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Afbeelding Lepelketting:
+https://firefly.adobe.com/generate/images?prompt=create+a+product+image+for+a+necklace+with+a+teaspoon+as+hanger&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=94448&seed=16999&seed=8394&seed=27748&aspectRatio=portrait&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Kaart Amsterdam:
+https://theupcycle.nl/store/ 
+
+Afbeelding banden:
+https://firefly.adobe.com/generate/images?prompt=create+an+image+of+a+pile+of+bike+tires&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=87239&seed=12924&seed=99223&seed=40767&aspectRatio=landscape&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Afbeelding fietsen:
+https://firefly.adobe.com/generate/images?prompt=pile+of+old+ruty+bikes&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=41302&seed=59057&seed=97126&seed=33027&aspectRatio=square&modelInputVersion=v2&guideStrength=50&creativity=6&promptType=user-written
+
+Afbeelding recycle:
+https://firefly.adobe.com/generate/images?prompt=symbolic+image+of+saving+the+earth+and+recycling&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=56224&seed=24066&seed=74528&seed=79446&aspectRatio=landscape&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+

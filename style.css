@@ -1,0 +1,195 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(img/fietsbandachtergrond.jpg);
+  background-size: 375px 1200px;
+  background-position: center;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(41, 123, 184, 0.8);
+  border-radius: 5%;
+  padding: 0.1em;
+  width: fit-content;
+  margin-bottom: 1em;
+}
+
+blockquote {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  border-radius: 5%;
+  padding: 0.1em;
+  width: fit-content;
+  margin-bottom: 1em;
+}
+
+img {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  margin: 1em;
+  border-radius: 5%;
+}
+
+text {
+  color: white;
+}
+
+header h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: rgb(41, 123, 184, 0.8);
+  border-radius: 5%;
+  border-radius: 5%;
+  padding: 0.1em;
+  text-align: center;
+  margin-left: 8em;
+  margin-right: 8em;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 5%;
+  border-radius: 5%;
+  padding: 0.1em;
+  text-align: center;
+  margin-right: 3em;
+  margin-left: 3em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+header {
+  color: white;
+}
+
+h1 {
+  color: white;
+  background-color: rgb(41, 123, 184, 0.8);
+  margin-left: 2em;
+  margin-right: 2em;
+  padding-bottom: 0.1em;
+  padding-top: 0.1em;
+}
+
+.kaart {
+  display: flex;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ons_verhaal {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+hr {
+  height: 0.5em;
+  border-width: 0;
+  color: rgb(41, 123, 184);
+  background-color: rgb(41, 123, 184, 0.8);
+  border-radius: 10%;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+.header img {
+  float: left;
+  width: 4em;
+  height: 2em;
+  background-color: rgb(41, 123, 184, 0.8);
+}
+
+.logo {
+  margin-left: 8em;
+  width: 25vw;
+  background: no;
+  background-color: rgb(41, 123, 184, 0.8);
+}
+
+.pagecontent {
+  background-color: rgb(41, 123, 184, 0.8);
+
+  border-radius: 5%;
+  border-radius: 5%;
+  padding: 0.1em;
+  text-align: center;
+  margin-top: 1em;
+  margin-right: 3em;
+  margin-left: 3em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.pagecontent p {
+  margin: 0.5em;
+}
+
+.pagecontent img {
+  margin-left: 2em;
+}
+
+footer p {
+  background-color: rgb(41, 123, 184, 0.8);
+
+  border-radius: 5%;
+  border-radius: 5%;
+  padding: 0.1em;
+  text-align: center;
+  margin-top: 1em;
+  margin-right: 3em;
+  margin-left: 3em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.test img {
+  background-color: rgb(41, 123, 184, 0.8);
+}
+
+.kaartsectie {
+  background-color: rgb(41, 123, 184, 0.8);
+
+  border-radius: 5%;
+  border-radius: 5%;
+  padding: 0.1em;
+  text-align: center;
+  margin-top: 1em;
+  margin-right: 3em;
+  margin-left: 3em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.kaartsectie img {
+  margin-left: 1em;
+}
+
+.kaartsectie p {
+  margin-left: 1em;
+  margin-right: 1em;
+}
